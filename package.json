@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "postinstall": "node lib/install.js",
-    "test": "xo && ava"
+    "test": "xo && ava --timeout=3m"
   },
   "repository": {
     "type": "git",
