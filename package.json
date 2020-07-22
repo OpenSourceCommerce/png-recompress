@@ -1,6 +1,6 @@
 {
   "name": "png-recompress",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Png Recompress",
   "main": "index.js",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhatdo-nfq/png-recompress.git"
+    "url": "git+https://github.com/OpenSourceCommerce/png-recompress.git"
   },
   "author": "NhatDo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nhatdo-nfq/png-recompress/issues"
+    "url": "https://github.com/OpenSourceCommerce/png-recompress/issues"
   },
-  "homepage": "https://github.com/nhatdo-nfq/png-recompress#readme",
+  "homepage": "https://github.com/OpenSourceCommerce/png-recompress#readme",
   "dependencies": {
     "ava": "^3.10.1",
     "bin-wrapper": "^4.1.0",
