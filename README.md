@@ -1,4 +1,4 @@
-# Png-recompress
+# Png-recompress [![build](https://travis-ci.org/OpenSourceCommerce/png-recompress.svg?branch=master)](https://travis-ci.org/OpenSourceCommerce/png-recompress)
 
 Compress png images by ssim method
 
