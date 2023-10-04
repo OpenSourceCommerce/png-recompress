@@ -27,5 +27,11 @@
     "path": "^0.12.7",
     "tempy": "^0.6.0",
     "xo": "^0.32.1"
+  },
+  "xo": {
+    "space": 4,
+    "rules": {
+      "no-await-in-loop": "off"
+    }
   }
 }
