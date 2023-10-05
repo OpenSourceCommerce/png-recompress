@@ -1,2 +1,5 @@
 *
 !.gitignore
+!linux-dssim
+!osx-dssim
+!linux-pngquant
